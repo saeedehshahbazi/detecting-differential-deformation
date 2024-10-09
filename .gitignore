@@ -3,7 +3,6 @@ __pycache__/
 
 # Python virtual environment folders (add these)
 Lib/
-Scripts/
 Include/
 
 # IDEs
